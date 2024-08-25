@@ -5,8 +5,8 @@
     --envelope-tab: #ecdeb8;
     --envelope-cover: #e6cfa7;
     --shadow-color: rgba(0, 0, 0, 0.2);
-    --txt-color: #444;
-    --heart-color: rgb(21, 250, 48);
+    --txt-color: #fc8080;
+    --heart-color: rgb(5, 255, 34);
   }
   body{
     margin: 0;
